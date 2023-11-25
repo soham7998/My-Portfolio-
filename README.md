@@ -7,6 +7,7 @@ Using Python, Flask, HTML and CSS programming languages, I was able to create a 
 
 I invite everyone to take a look at my portfolio website here: [http://soham2003.pythonanywhere.com/index.html]. It's been a great experience building this project from scratch. Feedback is always welcomed and appreciated!
 
-![Screenshot 2023-11-25 103200](https://github.com/soham7998/My-Portfolio-/assets/112894790/25ed6465-910a-4317-abed-05e9be68cd55)
 
 ![Screenshot 2023-11-25 103133](https://github.com/soham7998/My-Portfolio-/assets/112894790/e1d220fb-5a60-4e47-8e8a-97ddeaebdeaa)
+
+![Screenshot 2023-11-25 103200](https://github.com/soham7998/My-Portfolio-/assets/112894790/25ed6465-910a-4317-abed-05e9be68cd55)
